@@ -1,0 +1,1 @@
+{"name":"CapBuilderAI","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"expo":"^53.0.9","react-native":"0.79.2"},"devDependencies":{"metro-react-native-babel-preset":"^0.77.0","react-native-svg-transformer":"^1.5.1"}}
