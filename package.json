@@ -1,1 +1,21 @@
-{"name":"CapBuilderAI","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"expo":"^53.0.9","react-native":"0.79.2"},"devDependencies":{"metro-react-native-babel-preset":"^0.77.0","react-native-svg-transformer":"^1.5.1"}}
+{
+  "name": "CapBuilderAI",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^7.1.9",
+    "@react-navigation/stack": "^7.3.2",
+    "expo": "^53.0.9",
+    "react-native": "0.79.2",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.10.0"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^13.1.11",
+    "metro-react-native-babel-preset": "^0.77.0",
+    "react-native-svg-transformer": "^1.5.1"
+  }
+}
